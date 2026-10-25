@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Foreum source repository
+    url: https://github.com/Foreum/foreum
+    about: Browse the project and its development activity.
