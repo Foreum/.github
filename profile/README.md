@@ -1,30 +1,30 @@
-
 # Foreum
 
 **Open-source discussion software for building communities.**
 
-Foreum is a community discussion platform designed to give people the tools to create, manage, and grow their own online communities.
-
-We're building Foreum to be flexible, extensible, and self-hostable, with a focus on giving community owners control over their platforms.
+Foreum is an open-source community discussion platform. The project is being developed in the open, with the goal of making it easier to build and operate community spaces.
 
 ## Explore Foreum
 
-- **[Main Repository](https://github.com/Foreum/foreum)** — Source code, development, and issue tracking.
-- **Documentation** — Installation, configuration, and development guides.
-- **Discussions** — Questions, ideas, and community feedback.
+- **[Source code](https://github.com/Foreum/foreum)** - follow development, browse the code, and report issues.
+- **[Issues](https://github.com/Foreum/foreum/issues)** - report reproducible bugs or propose improvements.
+- **[Releases](https://github.com/Foreum/foreum/releases)** - follow published versions and release notes.
 
-## Get Involved
+> Foreum is under active development. Features, configuration, and setup instructions may change as the project evolves.
 
-Foreum is an open-source project, and contributions are welcome.
+## Get involved
 
-- Report bugs and request features through GitHub Issues.
-- Join technical discussions and share ideas.
-- Read the contributing guidelines before submitting a pull request.
+Contributions, thoughtful feedback, and bug reports are welcome.
 
-## Project Status
+1. Read the project's contribution guidance in the main repository, if available.
+2. Search existing issues before opening a new one.
+3. Include clear reproduction steps when reporting a bug.
+4. Keep pull requests focused and explain what changed and why.
 
-Foreum is under active development. Features, APIs, and installation instructions may change as the project evolves.
+## Project status
+
+Foreum is being built in the open. Check the main repository for the current implementation, development activity, and available functionality.
 
 ---
 
-Built in the open by the Foreum community.
+<sub>Foreum is an independent open-source project. Follow the repository for updates as the project develops.</sub>
